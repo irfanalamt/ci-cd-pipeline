@@ -16,6 +16,6 @@
    `ssh-copy-id node1 && ssh-copy-id node2`
 8. Test SSH access
    `vagrant ssh@node1`
-9. To Stop and delete everything
+9. To stop and delete everything
    `vagrant destroy -f`
 10. SUCCESS!
