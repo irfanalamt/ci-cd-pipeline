@@ -2,7 +2,7 @@
 
 Here Ansible is used to configure our servers.
 
-Currently we are in the terminal of control node.
+Currently we are in the terminal of control node. If not, `vagrant ssh control`
 
 1. Navigate to our AnsibleSetup folder in the control node
    `cd /vagrant/AnsibleSetup`
