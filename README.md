@@ -3,7 +3,8 @@
 This DevOps project utilizes Vagrant for VM management, Ansible for server configuration and Docker Swarm for container orchestration.
 
 ## Infrastructure diagram
-![my-diagram](https://user-images.githubusercontent.com/64161258/163655278-35f35b28-4ede-4656-9d78-787288734e3c.png "my-diagram" )
+![my-diagram](https://user-images.githubusercontent.com/64161258/163655470-354de060-6933-47d1-9181-583005973936.png "my-diagram")
+
 
 ## Steps
 
