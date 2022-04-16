@@ -5,6 +5,8 @@ This DevOps project utilizes Vagrant for VM management, Ansible for server confi
 ## Infrastructure diagram
 ![my-diagram](https://user-images.githubusercontent.com/64161258/163655470-354de060-6933-47d1-9181-583005973936.png "my-diagram")
 
+### Tech Stack
+Vagrant, Ansible, Flask, Docker, Nginx, Docker Swarm
 
 ## Steps
 
